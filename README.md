@@ -20,8 +20,12 @@
 </div> <br><br>
 
 
+
  Eu estou começando a estudar a programaçao para front-end ,
 mas meu Objetivo para o futuro é para Mobile com a tecnologia ReactJS.
 
 Não tenho exp como programador ainda mais tenho uns projetos que eu fiz para estudo 
 que estão aqui no github.
+
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mizaeldouglas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
