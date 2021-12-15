@@ -3,6 +3,7 @@
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mizael.douglas/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mizaeel-douglas-aa850a216/)
+[![gmail](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MizaelDouglas3)
 <br/>
 
 ![MizaelDouglas GitHub stats](https://github-readme-stats.vercel.app/api?username=Mizaeldouglas&show_icons=true&theme=dracula)
