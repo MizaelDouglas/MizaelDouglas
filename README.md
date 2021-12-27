@@ -21,8 +21,7 @@
 
 
 
- Eu estou começando a estudar a programaçao para front-end ,
-mas meu Objetivo para o futuro é para Mobile com a tecnologia ReactJS.
+ Eu estou começando a estudar a programaçao para front-end Com as tecnologia HTML,CSS,JS,TS,REACTJS , mas meu Objetivo para o futuro é para Mobile com a tecnologia ReactNative.
 
 Não tenho exp como programador ainda mais tenho uns projetos que eu fiz para estudo 
 que estão aqui no github.
