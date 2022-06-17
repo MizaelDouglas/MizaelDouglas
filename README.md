@@ -24,6 +24,9 @@
  👨‍💼 Desenvolvedor Front-End:
 Em Front-End eu possuo experiência com JavaScript, TypeScript, HTML, CSS, ReactJs, Figma(construir site e aplicações baseadas em disigners do figma) e estudando mais para evoluir nas tecnologias.
 
+👨‍💼 Desenvolvedor Back-End:
+Em Back-End eu possuo experiência com JavaScript, TypeScript, node js, Java, Spring boot, SQL, bancos de dados e estudando mais para evoluir nas tecnologias.
+
 👨‍🎓 O que estou estudando: 
 Atualmente tenho feito projetos em ReactJS para adquerir conhecimento Material Ui , Styled-components e react-router-dom e também estudando NextJS com Integração com Tailwind CSS e Typescript.
 
