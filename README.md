@@ -7,7 +7,7 @@
 
 [![gmail](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MizaelDouglas3)
 
-[![portfolio](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://twitter.com/MizaelDouglas3)
+[![portfolio](https://img.shields.io/badge/Portifolio-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mizaeldouglas.vercel.app)
 
 
 <br/>
