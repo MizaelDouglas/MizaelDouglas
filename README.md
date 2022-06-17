@@ -6,7 +6,6 @@
 [![gmail](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MizaelDouglas3)
 <br/>
 
-![MizaelDouglas GitHub stats](https://github-readme-stats.vercel.app/api?username=Mizaeldouglas&show_icons=true&theme=dracula)
 
 
 ## Tecnologias que eu estou aprendendo:
@@ -32,6 +31,13 @@ Atualmente tenho feito projetos em ReactJS para adquerir conhecimento Material U
 
  Estou sempre em busca de adquirir conhecimento, seja para evoluir na tecnologias que eu já sei, como também adquirindo conhecimento sobre novas tecnologias.
 Não tenho experiencia de trabalho na área de programação mais tenho experiencia de trabalhar em grupo que me permitiram desenvolver qualidades pessoais, como mentalidade colaborativa, bom relacionamentos com colegas de trabalhos e clientes,boa aceitação de feedback,análise critica e resolução de problemas
+
+<br><br>
+
+
+![MizaelDouglas GitHub stats](https://github-readme-stats.vercel.app/api?username=Mizaeldouglas&show_icons=true&theme=dracula)
+
+
 
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mizaeldouglas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
