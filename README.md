@@ -7,7 +7,11 @@
 [![gmail](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MizaelDouglas3)
 <br/>
 
+![MizaelDouglas GitHub stats](https://github-readme-stats.vercel.app/api?username=Mizaeldouglas&show_icons=true&theme=dracula)
 
+
+
+<br><br>
 
 ## Tecnologias que eu estou aprendendo:
 
@@ -40,9 +44,5 @@ Não tenho experiencia de trabalho na área de programação mais tenho experien
 <br><br>
 
 
-![MizaelDouglas GitHub stats](https://github-readme-stats.vercel.app/api?username=Mizaeldouglas&show_icons=true&theme=dracula)
 
-
-
-<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mizaeldouglas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
