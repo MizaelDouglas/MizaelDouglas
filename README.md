@@ -9,7 +9,7 @@
 
 <!-- <div style="display:inline_block">
 
-![MizaelDouglas GitHub stats](https://github-readme-stats.vercel.app/api?username=Mizaeldouglas&show_icons=true&theme=dracula)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mizaeldouglas&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![MizaelDouglas GitHub stats](https://github-readme-stats.vercel.app/api?username=Mizaeldouglas&show_icons=true&theme=dracula&layout=compact)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mizaeldouglas&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div> -->
 <div align="left">
