@@ -20,7 +20,7 @@
 
 <br><br>
 
-## Tecnologias que eu estou aprendendo:
+## Tecnologias que eu conhecimento:
    
 <br>
     
