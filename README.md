@@ -40,7 +40,6 @@
 
 
 
-
  👨‍💼 Desenvolvedor Front-End:
 Em Front-End eu possuo experiência com JavaScript, TypeScript, HTML, CSS, ReactJs, Figma(construir site e aplicações baseadas em disigners do figma) e estudando mais para evoluir nas tecnologias.
 
