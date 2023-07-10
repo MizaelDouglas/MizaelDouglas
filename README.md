@@ -4,8 +4,15 @@
 
 
   <div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mizaeldouglas&theme=dark&show_icons=true&title_color=7286D3&icon_color=7286D3&text_color=c9d1d9&bg_color=0d1117" />
-    <img width="39%" height="196px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizaeldouglas&layout=compact&title_color=7286D3&icon_color=7286D3&text_color=c9d1d9&bg_color=0d1117" />
+    
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mizaeldouglas&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mizaeldouglas&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
+    
   </div>
   <br><br><br>
 
