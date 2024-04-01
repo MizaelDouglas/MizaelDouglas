@@ -48,16 +48,9 @@
 #
 
 ###  about
- 👨‍💼 Developer Front-End:<br>
- - In Front-End I have experience with JavaScript, TypeScript, HTML, CSS, ReactJs, Figma(building website and applications based on figma designers) and studying more to evolve in technologies.
+ As a freelancer, I work with web and mobile software development, using technologies such as C#, .NET, Java, Spring Boot, SQL, MySQL, Postgree, Docker, Azure, JavaScript, TypeScript, HTML, CSS, ReactJs, Figma. I have training in software analysis and development from Descomplica Faculdade Digital, and complementary courses from Alura, Bata.io and b7web.
 
-👨‍💼 Developer Back-End:<br>
- - In Back-End I have experience with JavaScript, TypeScript, node js, Java, Spring boot, SQL, databases and studying more to evolve in technologies.
-
-👨‍🎓 What am I studying:<br>
- - Currently I've been doing projects in JAVA with Spring Boot and studying more every day and falling in love with this language and I'm also studying angular on the front and practicing more my knowledge with react js.
-I'm always looking to acquire knowledge, whether to evolve in the technologies I already know, as well as acquiring knowledge about new technologies.
-I have no experience working in the programming area but I have experience working in groups that allowed me to develop personal qualities, such as a collaborative mindset, good relationships with co-workers and clients, good acceptance of feedback, critical analysis and problem solving
+In recent years, I have delivered quality, innovative and efficient solutions for several clients and projects, such as a delivery application in Flutter, an inventory management system in C# and .NET, and an e-commerce website in Blazor, ASP .NET Razor and Bootstrap. I'm always looking for new challenges and learning opportunities, and I stay up to date with the latest trends and tools in the software development market. My goal is to create solutions that meet the needs of my clients and that generate value for their businesses.
 #
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7286D3&height=120&section=footer"/>
   
