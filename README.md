@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7286D3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7286D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mizael+Douglas;I'm+29+years+old;I'm+from+Brazil;I+Studying+analyze+system+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7286D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mizael+Douglas;I'm+30+years+old;I'm+from+Brazil;I+Studying+analyze+system+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
   <div align="center">
@@ -29,21 +29,14 @@
 ![HTML5](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B)&nbsp;
-![java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=red&backgroundcolor=black)&nbsp;
-![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=0D1117)&nbsp;
-![Styled-Components](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=DB7093&labelColor=0D1117)&nbsp;  
-  
-### Studying in this moment
 
-![React.js](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+
+![.NET](https://img.shields.io/badge/.NET-0D1117?logo=.net&logoColor=007ACC&style=for-the-badge)
 ![java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=red&backgroundcolor=black)&nbsp;
-![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=green)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![.C#](https://img.shields.io/badge/C%23-0D1117?logo=c-sharp&logoColor=007ACC&style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-0D1117?logo=php&logoColor=007ACC&style=for-the-badge)
+
 
 #
 
